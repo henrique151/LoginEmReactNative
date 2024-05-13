@@ -2,11 +2,24 @@
 
 ### Tela de Login 
 
-<img src="https://exemplo.com/logo.png" alt="Logo da Minha Empresa">
+![Logo da Minha Empresa](https://github.com/henrique151/LoginEmReactNative/blob/main/tela.png)
 
-Para iniciar seu projeto de maneira local, é necessário você ter o `Docker` previamente instalado na sua máquina.
+Para iniciar seu projeto de maneira local, é necessário você ter o `NodeJS` previamente instalado na sua máquina.
 Diante disso, basta realizar os seguintes passos:
 
 ```bash
-  git clone https://github.com/MarcelSecco1/E-commerce-Laravel.git
+  git clone https://github.com/henrique151/LoginEmReactNative
 ```
+
+Após o clone:
+
+```bash
+  cd LoginEmReactNative
+```
+
+Seguindo, basta executar no seu terminal:
+
+```bash
+  npx expo start ou npm start
+```
+
